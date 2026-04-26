@@ -1,0 +1,28 @@
+[
+  {
+    "source": "agents-radar/sample",
+    "title": "GitHub AI Trending: new agent frameworks and RAG infrastructure",
+    "url": "https://duanyytop.github.io/agents-radar/",
+    "published_at": null,
+    "summary": "Daily AI ecosystem signal covering GitHub Trending, HN, ArXiv, and official AI updates.",
+    "content": "Agent frameworks, RAG infrastructure, AI coding CLIs, and official model updates are active signals for engineering teams.",
+    "tags": [
+      "sample",
+      "github",
+      "agent"
+    ]
+  },
+  {
+    "source": "agents-radar/sample",
+    "title": "ArXiv AI Research Digest: document understanding and workflow automation",
+    "url": "https://duanyytop.github.io/agents-radar/",
+    "published_at": null,
+    "summary": "Recent research points to stronger document parsing and multi-step tool use.",
+    "content": "The relevant engineering angle is PDF parsing, drawing understanding, retrieval, and automated report generation.",
+    "tags": [
+      "sample",
+      "arxiv",
+      "document-ai"
+    ]
+  }
+]

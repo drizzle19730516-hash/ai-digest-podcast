@@ -1,45 +1,80 @@
 [
   {
-    "title": "國外技術情報：GitHub AI Trending: new agent frameworks and RAG infrastructure",
-    "original_title": "GitHub AI Trending: new agent frameworks and RAG infrastructure",
-    "url": "https://duanyytop.github.io/agents-radar/",
-    "source": "agents-radar/sample",
-    "language": "en",
-    "rating": 4,
-    "summary": "這則國外來源提到「GitHub AI Trending: new agent frameworks and RAG infrastructure」。目前未啟用 LLM 中文化，因此先以工程情報格式保留重點，並等待後續模型補齊完整中文摘要。",
+    "title": "AI CLI 工具社群動態報告 2026-04-26",
+    "original_title": "AI CLI 工具社区动态日报 2026-04-26",
+    "url": "https://duanyytop.github.io/agents-radar/#2026-04-26/ai-cli",
+    "source": "agents-radar",
+    "language": "zh",
+    "rating": 1,
+    "summary": "目前 AI CLI 工具生態呈現一超多強的格局，Claude Code 和 OpenAI Codex 佔據市場主導地位，其他工具如 Gemini CLI 和 Kimi CLI 透過開源和本地化策略快速追趕。",
     "technical_points": [
-      "此項目來自現成情報來源，已進入工程篩選流程。",
-      "命中的關鍵詞：agent、RAG、GitHub",
-      "建議使用 LLM 模式產生更完整的中文化摘要。"
+      "Claude Code 和 OpenAI Codex 的穩定性和計費透明度存在爭議",
+      "多模型路由能力和本地化適配成為新趨勢",
+      "企業對於 Agent 的可觀測性和成本可控性需求增加"
     ],
-    "engineering_usage": "可作為 AI / GitHub 技術趨勢初篩項目，後續再依工程場景判斷採用價值。",
-    "recommended_action": "若此項評分高，建議打開來源確認是否值得納入今日工程情報。",
+    "engineering_usage": "工程師在選擇 AI CLI 工具時需考量其穩定性、功能可靠性及成本控制，特別是在多雲環境下的應用。",
+    "recommended_action": "建議企業在選擇工具時，重視工具的連接治理和進程監控能力，並建立獨立的用量監控機制。",
     "keywords": [
-      "agent",
-      "RAG",
-      "GitHub"
+      "AI CLI",
+      "Claude Code",
+      "OpenAI Codex",
+      "Gemini CLI",
+      "多模型路由"
+    ],
+    "research_categories": [
+      "AI Agent / 開發工具"
     ]
   },
   {
-    "title": "國外技術情報：ArXiv AI Research Digest: document understanding and workflow automation",
-    "original_title": "ArXiv AI Research Digest: document understanding and workflow automation",
-    "url": "https://duanyytop.github.io/agents-radar/",
-    "source": "agents-radar/sample",
+    "title": "AI CLI 工具社群摘要 2026-04-26",
+    "original_title": "AI CLI Tools Community Digest 2026-04-26",
+    "url": "https://duanyytop.github.io/agents-radar/#2026-04-26/ai-cli-en",
+    "source": "agents-radar",
     "language": "en",
-    "rating": 5,
-    "summary": "這則國外來源提到「ArXiv AI Research Digest: document understanding and workflow automation」。目前未啟用 LLM 中文化，因此先以工程情報格式保留重點，並等待後續模型補齊完整中文摘要。",
+    "rating": 1,
+    "summary": "AI CLI 工具正在快速發展，但面臨基礎設施壓力和可靠性危機。社群正集中於共享抽象與會話可攜性，並強調成本控制與供應商靈活性。",
     "technical_points": [
-      "此項目來自現成情報來源，已進入工程篩選流程。",
-      "命中的關鍵詞：automation、workflow、PDF、document",
-      "建議使用 LLM 模式產生更完整的中文化摘要。"
+      "各大工具面臨流媒體穩定性與計費透明度的挑戰。",
+      "MCP 生態系統的安全性成為關鍵問題。",
+      "本地/邊緣推理卸載成為競爭優勢的焦點。"
     ],
-    "engineering_usage": "可作為 AI / GitHub 技術趨勢初篩項目，後續再依工程場景判斷採用價值。",
-    "recommended_action": "若此項評分高，建議打開來源確認是否值得納入今日工程情報。",
+    "engineering_usage": "這些工具的發展將影響開發者的工作流程，特別是在多平台與多供應商環境下的應用。",
+    "recommended_action": "建議工程團隊關注這些工具的更新與社群動態，以便適時調整開發策略。",
     "keywords": [
-      "automation",
-      "workflow",
-      "PDF",
-      "document"
+      "AI CLI",
+      "MCP",
+      "可靠性",
+      "計費透明度",
+      "本地推理"
+    ],
+    "research_categories": [
+      "AI Agent / 開發工具"
+    ]
+  },
+  {
+    "title": "AI Agents 生態日報 2026-04-26",
+    "original_title": "AI Agents 生态日报 2026-04-26",
+    "url": "https://duanyytop.github.io/agents-radar/#2026-04-26/ai-agents",
+    "source": "agents-radar",
+    "language": "zh",
+    "rating": 1,
+    "summary": "OpenClaw 專案在過去 24 小時內處理了 500 條 Issues 和 PR，顯示出強大的維護能力。新版本推出了 Google Meet 插件和 DeepSeek V4 模型支持，但仍存在一些穩定性問題。",
+    "technical_points": [
+      "OpenClaw 版本 v2026.4.24 正式版推出，包含 Google Meet 插件與 DeepSeek V4 支持。",
+      "當前存在消息重複注入和 Windows 平台的 ESM 加載問題。",
+      "社群討論集中於模型切換的上下文損壞及消息生命周期的問題。"
+    ],
+    "engineering_usage": "此專案的快速迭代與新功能推出對於企業級應用的部署準備有正面影響，但需加強測試覆蓋以提升穩定性。",
+    "recommended_action": "建議生產環境暫緩升級至 v2026.4.24，等待關鍵問題修復後再進行升級。",
+    "keywords": [
+      "OpenClaw",
+      "Google Meet",
+      "DeepSeek V4",
+      "消息重複注入",
+      "穩定性問題"
+    ],
+    "research_categories": [
+      "AI Agent / 開發工具"
     ]
   }
 ]

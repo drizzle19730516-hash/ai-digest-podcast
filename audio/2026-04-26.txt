@@ -26,7 +26,8 @@ DRY RUN AUDIO PLACEHOLDER
 - 來源：agents-radar/sample
 - 連結：https://duanyytop.github.io/agents-radar/
 - 原文標題：ArXiv AI Research Digest: document understanding and workflow automation
-- 關鍵詞：automation、workflow、PDF、document
+- 研究方向：PDF / 文件解析、工程審查 / 法規知識庫、AI Agent / 開發工具
+- 關鍵詞：pdf parsing、pdf、document、retrieval、report generation、workflow、automation
 
 **中文摘要**
 
@@ -35,7 +36,7 @@ DRY RUN AUDIO PLACEHOLDER
 **技術重點**
 
 - 此項目來自現成情報來源，已進入工程篩選流程。
-- 命中的關鍵詞：automation、workflow、PDF、document
+- 命中的關鍵詞：pdf parsing、pdf、document、retrieval、report generation、workflow、automation
 - 建議使用 LLM 模式產生更完整的中文化摘要。
 
 **工程影響**
@@ -45,6 +46,10 @@ DRY RUN AUDIO PLACEHOLDER
 **建議採取行動**
 
 若此項評分高，建議打開來源確認是否值得納入今日工程情報。
+
+**推播建議：可能納入研究的技術**
+
+- 研究追蹤候選：此項已命中「PDF / 文件解析、工程審查 / 法規知識庫」，建議先保留觀察，若連續多日出現再納入 PoC 或模板化規則。
 
 ---
 
@@ -54,7 +59,8 @@ DRY RUN AUDIO PLACEHOLDER
 - 來源：agents-radar/sample
 - 連結：https://duanyytop.github.io/agents-radar/
 - 原文標題：GitHub AI Trending: new agent frameworks and RAG infrastructure
-- 關鍵詞：agent、RAG、GitHub
+- 研究方向：AI Agent / 開發工具
+- 關鍵詞：agent、rag、coding、github
 
 **中文摘要**
 
@@ -63,7 +69,7 @@ DRY RUN AUDIO PLACEHOLDER
 **技術重點**
 
 - 此項目來自現成情報來源，已進入工程篩選流程。
-- 命中的關鍵詞：agent、RAG、GitHub
+- 命中的關鍵詞：agent、rag、coding、github
 - 建議使用 LLM 模式產生更完整的中文化摘要。
 
 **工程影響**
@@ -74,9 +80,6 @@ DRY RUN AUDIO PLACEHOLDER
 
 若此項評分高，建議打開來源確認是否值得納入今日工程情報。
 
----
+**推播建議：可能納入研究的技術**
 
-## 產生資訊
-
-- 產生時間：2026-04-26 13:11:54
-- 處理原則：國外文獻已中文化，專有名詞保留英文。
+- 主文與規範庫候選：若技術能改善 LlamaParse 後處理、條號切分或 Obsidian/

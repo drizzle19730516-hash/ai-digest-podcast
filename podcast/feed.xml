@@ -4,7 +4,7 @@
     <title>AI 工程情報日報</title>
     <link>https://drizzle19730516-hash.github.io/ai-digest-podcast</link>
     <atom:link href="https://drizzle19730516-hash.github.io/ai-digest-podcast/podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 26 Apr 2026 13:38:19 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 14:19:40 +0800</lastBuildDate>
     <generator>OpenClaw AI Digest Pipeline</generator>
     <description>每日整理 AI、GitHub、工程自動化、AI Agent、PDF 解析與開發工具相關技術情報，轉成適合通勤與車上收聽的語音日報。</description>
     <language>zh-tw</language>
@@ -28,7 +28,7 @@
       <pubDate>Sun, 26 Apr 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">ai-digest-2026-04-26</guid>
       <itunes:episodeType>full</itunes:episodeType>
-      <enclosure url="https://drizzle19730516-hash.github.io/ai-digest-podcast/audio/2026-04-26.m4a" length="6414354" type="audio/mp4" />
+      <enclosure url="https://drizzle19730516-hash.github.io/ai-digest-podcast/audio/2026-04-26.m4a" length="5233682" type="audio/mp4" />
     </item>
   </channel>
 </rss>

@@ -1,0 +1,16 @@
+===== 2026-04-26 14:15:22 +0800 daily podcast start =====
+fetch: /Users/drizzle/Desktop/AI新聞/output/raw/2026-04-26.json
+aggregate: /Users/drizzle/Desktop/AI新聞/output/daily/2026-04-26.ranked.json
+build-digest: /Users/drizzle/Desktop/AI新聞/output/daily/2026-04-26.md
+build-voice-script: /Users/drizzle/Desktop/AI新聞/output/voice/2026-04-26.md
+tts: /Users/drizzle/Desktop/AI新聞/output/audio/2026-04-26.txt
+build-podcast-feed: /Users/drizzle/Desktop/AI新聞/output/podcast/feed.xml
+publish skipped
+===== 2026-04-26 14:15:23 +0800 daily podcast done =====
+===== 2026-04-26 14:17:05 +0800 daily podcast start =====
+error: <urlopen error The write operation timed out>
+Generating podcast feed for https://drizzle19730516-hash.github.io/ai-digest-podcast ...
+podcast feed written: /Users/drizzle/Desktop/AI新聞/output/podcast/feed.xml
+Cloning drizzle19730516-hash/ai-digest-podcast ...
+Already on 'gh-pages'
+Your branch is up to date with 'origin/gh-pages'.

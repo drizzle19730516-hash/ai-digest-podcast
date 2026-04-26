@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>AI / GitHub 工程情報語音日報</title>
+    <title>AI 工程情報日報</title>
     <link>https://drizzle19730516-hash.github.io/ai-digest-podcast</link>
     <atom:link href="https://drizzle19730516-hash.github.io/ai-digest-podcast/podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 26 Apr 2026 13:19:57 +0800</lastBuildDate>
-    <description>每日 AI、GitHub、技術趨勢與工程決策摘要，已將國外文獻中文化為繁體中文。</description>
-    <language>zh-TW</language>
+    <lastBuildDate>Sun, 26 Apr 2026 13:37:53 +0800</lastBuildDate>
+    <generator>OpenClaw AI Digest Pipeline</generator>
+    <description>每日整理 AI、GitHub、工程自動化、AI Agent、PDF 解析與開發工具相關技術情報，轉成適合通勤與車上收聽的語音日報。</description>
+    <language>zh-tw</language>
     <itunes:author>AI Digest</itunes:author>
-    <itunes:summary>每日 AI、GitHub、技術趨勢與工程決策摘要，已將國外文獻中文化為繁體中文。</itunes:summary>
+    <itunes:summary>每日整理 AI、GitHub、工程自動化、AI Agent、PDF 解析與開發工具相關技術情報，轉成適合通勤與車上收聽的語音日報。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
       <itunes:name>AI Digest</itunes:name>
     </itunes:owner>
     <itunes:category text="Technology" />
+    <itunes:image href="https://drizzle19730516-hash.github.io/ai-digest-podcast/podcast/cover.jpg" />
+    <image>
+      <url>https://drizzle19730516-hash.github.io/ai-digest-podcast/podcast/cover.jpg</url>
+      <title>AI 工程情報日報</title>
+      <link>https://drizzle19730516-hash.github.io/ai-digest-podcast</link>
+    </image>
     <item>
-      <title>AI / GitHub 工程情報語音日報 2026-04-26</title>
+      <title>2026-04-26｜AI / GitHub 技術重點</title>
       <link>https://drizzle19730516-hash.github.io/ai-digest-podcast/daily/2026-04-26.md</link>
-      <description># AI / GitHub 工程情報日報（2026-04-26） ## 今日重點 ### 1. 國外技術情報：ArXiv AI Research Digest: document understanding and workflow automation - 評分：★★★★★ - 來源：agents-radar/sample - 連結：https://duanyytop.github.io/agents-radar/ - 原文標題：ArXiv AI Research Digest: document understanding and workflow automation - 關鍵詞：automation、workflow、PDF、document **中文摘要** 這則國外來源提到「ArXiv AI Research Digest: document understanding and workflow automation」。目前未啟用 LLM 中文化，因此先以工程情報格式保留重點，並等待後續模型補齊完整中文摘要。 **技術重點** - 此項目來自現成情報來源，已進入工程篩選流程</description>
+      <description>今日 AI / GitHub 工程情報語音日報，整理重要技術趨勢與工程應用觀察。</description>
       <pubDate>Sun, 26 Apr 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://drizzle19730516-hash.github.io/ai-digest-podcast/audio/2026-04-26.m4a</guid>
+      <guid isPermaLink="false">ai-digest-2026-04-26</guid>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://drizzle19730516-hash.github.io/ai-digest-podcast/audio/2026-04-26.m4a" length="6414354" type="audio/mp4" />
     </item>
